@@ -18,7 +18,7 @@ The project was developed as a collaborative effort by **Rajeev Ranjan Pratap Si
 7. [Usage](#usage)
 8. [Contributors](#contributors)
 9. [Acknowledgments](#acknowledgments)
-10. [License](#license)
+
 
 ## Overview
 
