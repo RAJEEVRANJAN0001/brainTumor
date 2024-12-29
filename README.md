@@ -135,7 +135,7 @@ The web interface was designed to be user-friendly and accessible. It includes t
    - A detailed report is generated, including tumor type, classification results, and confidence score.
 4. **Download Report**:
    - The user can download the report for medical use.
-   - 
+     
 ## Usage
 
 1. Launch the web application by running `TESTING_4.py`.(It use streamlit for web page )
