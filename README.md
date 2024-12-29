@@ -5,7 +5,7 @@ A deep learning project for automated brain tumor detection from MRI images. It 
 
 This project aims to build an advanced **Brain Tumor Classification System** using deep learning techniques to analyze **MRI scan images**. By leveraging two powerful convolutional neural network architectures, **ResNet50** and **DenseNet121**, along with custom CNN layers, the system classifies brain tumors into four categories: Glioma, Meningioma, No Tumor, and Pituitary Tumor. The project showcases the application of **Artificial Intelligence (AI)** in healthcare to help medical professionals detect tumors efficiently.
 
-The project was developed as a collaborative effort by **Rajeev Ranjan Pratap Singh**, **Kstix**, and **Manan**.
+The project was developed as a collaborative effort by **Rajeev Ranjan Pratap Singh**, **Kshitiz Srivastava**, and **Manansinh Sandhaliya**.
 
 ## Table of Contents
 
