@@ -15,8 +15,6 @@ This project aims to build an advanced **Brain Tumor Classification System** usi
 5. [Testing and Evaluation](#testing-and-evaluation)
 6. [Web Interface](#web-interface)
 7. [Usage](#usage)
-8. [Contributors](#contributors)
-9. [Acknowledgments](#acknowledgments)
 
 
 ## Overview
